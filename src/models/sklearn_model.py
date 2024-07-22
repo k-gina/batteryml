@@ -5,7 +5,7 @@ import abc
 import torch
 import pickle
 
-from src.data.databundle import DataBundle
+from src.databundle import DataBundle
 
 from .base import BaseModel
 

@@ -5,7 +5,7 @@ import abc
 import torch
 import shutil
 
-from src.data.databundle import DataBundle
+from src.databundle import DataBundle
 
 
 class BaseModel(abc.ABC):
